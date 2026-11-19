@@ -1,0 +1,37 @@
+{
+  "file-468f47b54564.0.2": {
+    "by": "xpath",
+    "value": "//h2[normalize-space()=\"Login Page\"]",
+    "source": "inspection"
+  },
+  "file-468f47b54564.1.1": {
+    "by": "xpath",
+    "value": "//h3[normalize-space()=\"Checkboxes\"]",
+    "source": "inspection"
+  },
+  "file-468f47b54564.1.2": {
+    "by": "cssSelector",
+    "value": "#checkboxes > input:nth-of-type(1)",
+    "source": "inspection"
+  },
+  "file-468f47b54564.1.4": {
+    "by": "cssSelector",
+    "value": "#checkboxes > input:nth-of-type(1)",
+    "source": "inspection"
+  },
+  "file-468f47b54564.2.2": {
+    "by": "xpath",
+    "value": "//h3[normalize-space()=\"Challenging DOM\"]",
+    "source": "inspection"
+  },
+  "file-468f47b54564.3.2": {
+    "by": "xpath",
+    "value": "//h3[normalize-space()=\"Hovers\"]",
+    "source": "inspection"
+  },
+  "file-468f47b54564.4.2": {
+    "by": "xpath",
+    "value": "//h3[normalize-space()=\"Dynamic Content\"]",
+    "source": "inspection"
+  }
+}

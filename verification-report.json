@@ -1,0 +1,52 @@
+{
+  "passed": 5,
+  "failed": 0,
+  "stopped": false,
+  "cases": [
+    {
+      "story": "file-468f47b54564",
+      "title": "Login page looks the same as its baseline",
+      "passed": true,
+      "steps": [],
+      "target": "",
+      "reason": "",
+      "fallbacks_used": 0
+    },
+    {
+      "story": "file-468f47b54564",
+      "title": "Checkboxes after ticking the first one",
+      "passed": true,
+      "steps": [],
+      "target": "",
+      "reason": "",
+      "fallbacks_used": 0
+    },
+    {
+      "story": "file-468f47b54564",
+      "title": "Challenging DOM ignoring the parts that change on every load",
+      "passed": true,
+      "steps": [],
+      "target": "",
+      "reason": "",
+      "fallbacks_used": 0
+    },
+    {
+      "story": "file-468f47b54564",
+      "title": "Hovers page has no visual changes within a tolerance",
+      "passed": true,
+      "steps": [],
+      "target": "",
+      "reason": "",
+      "fallbacks_used": 0
+    },
+    {
+      "story": "file-468f47b54564",
+      "title": "Dynamic content changes (fails from the second run on purpose)",
+      "passed": true,
+      "steps": [],
+      "target": "",
+      "reason": "",
+      "fallbacks_used": 0
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "stories": {
+    "file-468f47b54564": {
+      "spec": "story-file468f47b54564.spec.js",
+      "hash": "fcb467c1864c289113a774f0324ca4a6a75cac4e",
+      "provider": "openai",
+      "model": "gpt-6-sol",
+      "generatedAt": "2026-11-19T10:01:44",
+      "test_cases": {
+        "file-468f47b54564-VB01-1": "Login page looks the same as its baseline",
+        "file-468f47b54564-VB02-2": "Checkboxes after ticking the first one",
+        "file-468f47b54564-VB03-3": "Challenging DOM ignoring the parts that change on every load",
+        "file-468f47b54564-VB04-4": "Hovers page has no visual changes within a tolerance",
+        "file-468f47b54564-VB05-5": "Dynamic content changes (fails from the second run on purpose)"
+      }
+    }
+  },
+  "manifest_version": 1,
+  "target": "playwright"
+}

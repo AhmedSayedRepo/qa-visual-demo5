@@ -1,0 +1,16 @@
+node_modules/
+test-results/
+playwright-report/
+# per-run login session state (written by global-setup.js, never committed):
+.auth/
+# environment-specific config (URLs + secrets stay out of git):
+.env
+# local DOM snapshots from an opt-in live inspection:
+inspection-screens.json
+# QA Studio's local record of verified cases (reused on regenerate):
+.qastudio/verified-cases.json
+# locators.json is COMMITTED on purpose — the UI is identical across environments,
+# so healed locators are shared. Only URLs/creds differ, and those live in .env.
+# a locators.json save in progress:
+locators.json.*.tmp
+locators.json.lock
